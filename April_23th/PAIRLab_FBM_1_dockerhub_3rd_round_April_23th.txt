@@ -4,5 +4,9 @@ https://hub.docker.com/repository/docker/allenthreee/icuas_fbm1/general
 docker pull allenthreee/icuas_fbm1:3rd_April_23th
 docker run -it allenthreee/icuas_fbm1:3rd_April_23th /bin/bash
 
+POLAND->
+docker pull allenthreee/icuas_fbm1:June_2nd
+docker run -it allenthreee/icuas_fbm1:June_2nd /bin/bash
+
 you will find a fbm1_launch.sh under the path /home/metrics/FBM1/fbm1_launch.sh
 run ./fbm1_launch.sh, and you will find promotions to run the program.
